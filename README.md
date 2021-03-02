@@ -1,2 +1,1 @@
-# rsschool-cv
-Curriculum vitae
+https://nastyabodnar.github.io/rsschool-cv/cv
