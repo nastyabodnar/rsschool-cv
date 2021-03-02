@@ -11,7 +11,18 @@
 
 **Skills:**  I'm familiar with HTML, CSS, JS, GIT. I know how to work with the command line and set the environment.
 
-**Code examples:** [Go to my GitHub account](https://github.com/nastyabodnar)
+**Code examples:** [Go to my GitHub account](https://github.com/nastyabodnar) 
+> JavaScript Function
+```
+const playDoor = (door) => {
+  numClosedDoors--;
+  if (numClosedDoors === 0) {
+    gameOver('win');
+  } else if (isBot(door)) {
+     gameOver();
+  }
+};
+```
 
 **Education:**
 - 2018-2020  KTU(KSTU),"Computer Engineering and Software" Bachelor Degree
