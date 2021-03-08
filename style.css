@@ -1,15 +1,18 @@
 body {
+    width: 1020px;
+    align-items: center;
+    padding: 10px 40px;
+    margin: 0 auto;
+    font-family: "Georgia", serif;
+    font-size: 14px;
+    
+}
+.color {
+   color: #222222;
+}
+
+.round-image {
+  border-radius: 50%;
+  display: block;
   margin: 0 auto;
-  
-   
-  padding: 10px 30px;
-
-  font-size: 14px;
-
-  line-height: 22px;
-
-  font-family: "Georgia", serif;
-
-  color: #222222;
-
 }
