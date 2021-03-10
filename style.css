@@ -1,0 +1,47 @@
+body {
+    width: 1020px;
+    align-items: center;
+    padding: 10px 40px;
+    margin: 0 auto;
+    font-family: "Georgia", serif;
+    font-size: 14px;
+    background-color: #f5f5dc;
+}
+
+h1 {
+    text-align: center;
+    color: #a52a2a; 
+}
+
+a {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+.contacts {
+    border: 1px solid #fffff0;
+    padding: 10px;
+    background-color: #fffff0;
+}
+
+.education {
+    background-color: #ffffe0;
+    font-style: italic;
+}
+
+.color {
+   color: #222222;
+}
+
+img.rs-icon {
+    width: 150px;
+}
+
+.round-image {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  height: 250px;  
+  margin-bottom: 10px;  
+}
